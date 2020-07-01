@@ -28,7 +28,7 @@ class UsersTableSeeder extends Seeder
 
 //SECONDO MODO: PIU' BREVE
         DB::table('users')->insert([
-            'name'     => Str::random(8),
+            'name'     => 'Edo-'.Str::random(4),
             'email'    => 'edoardo@gmail.com',
             'role'     => 'user',
             'password' => Hash::make('edoardo'),
