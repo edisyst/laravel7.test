@@ -29,5 +29,13 @@ class AlbumsTableSeeder extends Seeder
                 });
             });
 
+
+        //Album solo per Edoardo: IN REALTA' NE HA CREATO ALTRI 10 A CASO
+//        $albums = factory(Album::class, 10)
+//            ->create(['user_id' => 2])
+//            ->each(function ($album){
+//                $categories = Category::inRandomOrder()->take(2)->pluck('id');
+//            });
+
     }
 }

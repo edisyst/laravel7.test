@@ -92,22 +92,19 @@
     @parent
     <script>
 
-        //NON FUNGE (vid.71): SERVIREBBE PER NON FARGLI RICARICARE LA PAGINA
-/*
-
         $(document).ready(function() {
-            $('ul').on('click', 'a.btn-danger', function(element) {
+            $('td').on('click', 'a.btn-danger', function(element) {
                 element.preventDefault();
-                alert(element.target.href);
+                // alert(element.target.parentNode.parentNode.parentNode.parentNode);
                 var urlAlbum = $(this).attr('href');
-                var li = element.target.parentNode.parentNode;
+                var tr = element.target.parentNode.parentNode.parentNode.parentNode;
                 $.ajax(urlAlbum, {
-                    // method: 'DELETE',
-                    // data: { '_token' : $('_token').val() },
+                    method: 'DELETE',
+                    //DEVO TROVARE UN ALTRO MODO PER PASSARGLI IL CSRF, COSI' E' IN CHIARO
+                    data: { '_token' : '{{csrf_token()}}' },
                     complete: function (resp) {
                         if(resp.responseText == 1){
-                            li.parentNode.removeChild(li);
-                            $(li).remove();
+                            $(tr).remove();
                         } else {
                             alert('Errore contattando il SERVER');
                         }
@@ -115,7 +112,6 @@
                 });
             });
         });
-*/
 
     </script>
 @endsection

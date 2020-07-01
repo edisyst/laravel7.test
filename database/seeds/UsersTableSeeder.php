@@ -19,7 +19,7 @@ class UsersTableSeeder extends Seeder
         $sql.= " VALUES (:name, :email, :role, :password)";
 
         DB::statement($sql, [
-            'name'     => Str::random(8),
+            'name'     => 'Amministratore',
             'email'    => 'admin@gmail.com',
             'role'     => 'admin',
             'password' => Hash::make('admin')

@@ -57,6 +57,7 @@ class AlbumsController extends Controller
     {
 //        $res = Album::where('id', $album)->delete();
 //        $res = Album::find($album)->delete();
+
         $thumbnail = $album->album_thumb;
         $disk = config('filesystems.default'); // config/filesystems.php, VARIABILE default
 
@@ -64,11 +65,16 @@ class AlbumsController extends Controller
             if ($thumbnail && Storage::disk($disk)->has($thumbnail)){
                 Storage::disk('public')->delete($thumbnail);
             }
+            //OVUNQUE LO METTA, NON PARTE IL CAZZO DI MESSAGGIO, SI VEDE SOLO DOPO CHE AGGIORNO LA PAGINA
+            $messaggio = $res ? 'Album nr. '.$album->id.' eliminato' : 'Non ho eliminato';
+            session()->flash('message', $messaggio);
+        }
+        if(request()->ajax()) {
+            return ''.$res; //PER RENDERLA UNA STRINGA
+        } else {
+            return redirect()->route('albums');
         }
 
-        $messaggio = $res ? 'Album nr. '.$album->id.' eliminato' : 'Non ho eliminato';
-        session()->flash('message', $messaggio);
-        return redirect()->route('albums');
     } // END delete
 
 

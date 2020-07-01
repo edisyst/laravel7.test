@@ -75,7 +75,7 @@ Route::group([
         Route::get('/albums/{id}/edit', 'AlbumsController@edit')
             ->where('id', '[0-9]+')
             ->name('album.edit');
-        Route::get('/albums/{album}/delete', 'AlbumsController@delete') //A ME PROPRIO NON FUNZIONA Route::delete
+        Route::delete('/albums/{album}/delete', 'AlbumsController@delete') //A ME PROPRIO NON FUNZIONA Route::delete
             ->name('album.delete')
             ->where('album', '[0-9]+');
 
