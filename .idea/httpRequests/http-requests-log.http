@@ -1,0 +1,136 @@
+DELETE http://laravel7.test.test/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T081156.419.html
+
+###
+
+DELETE http://laravel7.test.test/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu&_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T081116.419.html
+
+###
+
+GET http://laravel7.test.test/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu&_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T081106.200.json
+
+###
+
+GET localhost:3000/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu&_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET 0.0.0.0:3000/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu&_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE 0.0.0.0:3000/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu&_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://laravel7.test.test/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu&_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T075008.405.html
+
+###
+
+DELETE http://laravel7.test.test/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T074947.405.html
+
+###
+
+GET http://laravel7.test.test/albums/19?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T074940.200.json
+
+###
+
+GET http://laravel7.test.test/albums/19/delete?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T074931.405.html
+
+###
+
+DELETE http://laravel7.test.test/albums/19/delete?_token=dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T074906.419.html
+
+###
+
+DELETE http://laravel7.test.test/albums/19/delete
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T074444.419.html
+
+###
+
+DELETE http://laravel7.test.test/albums/19/delete
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T074421.419.html
+
+###
+
+DELETE http://laravel7.test.test/albums/19
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T074325.405.html
+
+###
+
+GET http://laravel7.test.test/albums/19
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T073853.200.json
+
+###
+
+DELETE http://laravel7.test.test/albums/19
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T073843.405.html
+
+###
+
+GET http://laravel7.test.test/albums/19
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-15T073812.200.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+

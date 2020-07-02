@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/resources/views/welcome.blade.php" line="50" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79f7a811-cefb-4d74-9935-a91f41b006e5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="laravel7.test" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="laravel7.test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="laravel7.test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="laravel7.test: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="laravel7.test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="102" column="46" lean-forward="true" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/templates/admin.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1010">
+              <caret line="357" selection-start-line="357" selection-end-line="357" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="albums.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/albums/albums.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminOLD.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/templates/adminOLD.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2834">
+              <caret line="109" column="78" selection-start-line="104" selection-start-column="28" selection-end-line="109" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asdsdas</find>
+      <find>category</find>
+      <find>windo</find>
+      <find>App/User</find>
+      <find>prefix('admin')</find>
+      <find>App\User</find>
+      <find>count</find>
+      <find>album_categories</find>
+      <find>AlbumCategory</find>
+      <find>AlbumCategoryController</find>
+      <find>album_category</find>
+      <find>CreateAlbumCategoriesTable</find>
+      <find>CategoryRequest</find>
+      <find>/admin</find>
+      <find>route</find>
+      <find>nav-link</find>
+      <find>Dashboard</find>
+      <find>static nav</find>
+      <find>searc</find>
+      <find>dataTable</find>
+      <find>svg</find>
+      <find>exampleInputEmail1</find>
+      <find>updated_at</find>
+      <find>dateFormat</find>
+      <find>MAIL_D</find>
+      <find>MAIL_FROM_ADDRESS</find>
+      <find>whoops</find>
+      <find>Logged in as:</find>
+      <find>compone</find>
+      <find>logou</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>hhhhhh</replace>
+      <replace>App\Models\User</replace>
+      <replace>categories</replace>
+      <replace>Category</replace>
+      <replace>name</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/categories/categoryform.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/database/factories/UserFactory.php" />
+        <option value="$PROJECT_DIR$/app/Models/AlbumsCategory.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_05_31_212838_add_user_id_column_album_categories.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/categories/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AlbumCategoryController.php" />
+        <option value="$PROJECT_DIR$/app/Models/AlbumCategory.php" />
+        <option value="$PROJECT_DIR$/database/seeds/SeedAlbumCategoriesTable.php" />
+        <option value="$PROJECT_DIR$/app/Models/Category.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_05_27_214208_create_album_categories_table.php" />
+        <option value="$PROJECT_DIR$/app/Providers/FileServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/VerifyIsAdmin.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/resources/views/templates/layout.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/sb-admin.js" />
+        <option value="$PROJECT_DIR$/database/migrations/help.txt" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/albums/albums.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/sb-admin-datatables.js" />
+        <option value="$PROJECT_DIR$/routes/admin.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/users.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/UserFormRequest.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/edituser.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminUsersController.php" />
+        <option value="$PROJECT_DIR$/config/mail.php" />
+        <option value="$PROJECT_DIR$/storage/logs/laravel.log" />
+        <option value="$PROJECT_DIR$/routes/console.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/mails/test.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mails/testemail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/mails/testemailmd.blade.php" />
+        <option value="$PROJECT_DIR$/app/Mail/TestMd.php" />
+        <option value="$PROJECT_DIR$/app/Mail/TestEmail.php" />
+        <option value="$PROJECT_DIR$/app/Events/NewAlbumCreated.php" />
+        <option value="$PROJECT_DIR$/resources/views/mails/notifyadminalbum.blade.php" />
+        <option value="$PROJECT_DIR$/app/Mail/EmailNotifyAdminNewAlbum.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AlbumsController.php" />
+        <option value="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Listeners/NotifyAdminNewAlbum.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PhotosController.php" />
+        <option value="$PROJECT_DIR$/database/factories/CategoryFactory.php" />
+        <option value="$PROJECT_DIR$/help.txt" />
+        <option value="$PROJECT_DIR$/resources/views/about.blade.php" />
+        <option value="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/templates/adminOLD.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/templates/admin.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laravel7.test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel7.test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel7.test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel7.test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel7.test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel7.test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel7.test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel7.test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="albums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel7.test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel7.test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel7.test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel7.test" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../provaLaravel1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\laravel7.test\public\css" />
+      <recent name="C:\laragon\www\laravel7.test\public\js" />
+      <recent name="C:\laragon\www\laravel7.test\resources\views\images" />
+      <recent name="C:\laragon\www\laravel7.test\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\laravel7.test\resources\views\pages" />
+      <recent name="C:\laragon\www\laravel7.test" />
+      <recent name="C:\laragon\www\laravel7.test\app" />
+      <recent name="C:\laragon\www\laravel7.test\app\Http\Controllers\Admin" />
+      <recent name="C:\laragon\www\laravel7.test\app\Models" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589573466000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImdIVlN6UDRyQWNvc2tvSExEam5udXc9PSIsInZhbHVlIjoiSGZIclBydUpmaU9ualJYSEl6TzZyYjdkby92ekFjZnFkdWVPZG0zcGtORVo5blRVK05HS0VwdG9QbnN6aEFGMSIsIm1hYyI6IjBlZjc4ZGVlYjFmZjNiYjA1ZDA3NTdlNmYzZDRkNjBlMGZkZWIyOTc5NGRlZTE2MjkyNjMwNTgyMDc5ZmUzNjkifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589573476000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImFXQ3ovNm85b0dUOU1Hb1NPcVZiMkE9PSIsInZhbHVlIjoiTHhEY0pxV29NM1daYjJZSWwrRU95TFlNUDNqOWJNd3BVZFU2RmUrUzFjbHVpTSs5RGpZN1d3a28wY21iMU51NyIsIm1hYyI6IjA0MzA3MGUwOWMyYjU0ZmVhODliODlhYTFjMjRjMGJlMTI5NzIwZjM2ZDY1YjMzOTM4YzM2ZjVkNjUwODhmOWIifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589573466000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImdIVlN6UDRyQWNvc2tvSExEam5udXc9PSIsInZhbHVlIjoiSGZIclBydUpmaU9ualJYSEl6TzZyYjdkby92ekFjZnFkdWVPZG0zcGtORVo5blRVK05HS0VwdG9QbnN6aEFGMSIsIm1hYyI6IjBlZjc4ZGVlYjFmZjNiYjA1ZDA3NTdlNmYzZDRkNjBlMGZkZWIyOTc5NGRlZTE2MjkyNjMwNTgyMDc5ZmUzNjkifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589573466000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IitzRnJUdTI0S0FJVUZNd2E3L1FocWc9PSIsInZhbHVlIjoiT1haajBVT1VUNHZXd2ZaYW5aV1Z4VlB6SlpDN1lHRGE2eVZFMndla1I1dGE3OWdnMHZmNlpOcDQ2QVNucXIzQiIsIm1hYyI6ImUwZjk4ZmU5MmZhMWZlMjIxMDM5NzkxOWZhYmI1YzM1NGQ0MGFjMzI5MGI0MjYzYWVjZDYzNWU2NGI1YzA2NDkifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589572180000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IklXNitWckZqaHpRK0dHdVkrejhqSWc9PSIsInZhbHVlIjoic1hHcjdWL2g2TGRxVHlDMW84YkZhK2Q5ZGNidzIyNGVXdjVmMFZIYTBYZ3l5aVBCVG1mN3lzaWtqWlFtZ3hkNiIsIm1hYyI6IjcwMTM3OGQ1NDNjOWYzOGQzMGM3MjEzOGFiYTk3YWE5ZmFlNjRiMWI4ZjZlZWQ1ZjNhZDBmNWJjMWJkMjk5NWQifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589572180000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InUwVmhWbnFuVDlwSmxmOW1MbTc0NlE9PSIsInZhbHVlIjoiYVdCT0xxdlRSNHN6dkF5OFM1TjczQVFuZEs5eGhhYU04YUdRVFdaR0NDOFpLRDd1bTlJYVV2SjJaQXhLeHVFWCIsIm1hYyI6ImUwNGJiOTE0MjIzZTQ1YTdhNzFiYmM2MjRmYmFkNDM5NzVkMTVjMzlmZmFlZGE4MjI3ZGRmYTg2ZDQwMTQxNjEifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589572180000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IklXNitWckZqaHpRK0dHdVkrejhqSWc9PSIsInZhbHVlIjoic1hHcjdWL2g2TGRxVHlDMW84YkZhK2Q5ZGNidzIyNGVXdjVmMFZIYTBYZ3l5aVBCVG1mN3lzaWtqWlFtZ3hkNiIsIm1hYyI6IjcwMTM3OGQ1NDNjOWYzOGQzMGM3MjEzOGFiYTk3YWE5ZmFlNjRiMWI4ZjZlZWQ1ZjNhZDBmNWJjMWJkMjk5NWQifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589572180000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InUwVmhWbnFuVDlwSmxmOW1MbTc0NlE9PSIsInZhbHVlIjoiYVdCT0xxdlRSNHN6dkF5OFM1TjczQVFuZEs5eGhhYU04YUdRVFdaR0NDOFpLRDd1bTlJYVV2SjJaQXhLeHVFWCIsIm1hYyI6ImUwNGJiOTE0MjIzZTQ1YTdhNzFiYmM2MjRmYmFkNDM5NzVkMTVjMzlmZmFlZGE4MjI3ZGRmYTg2ZDQwMTQxNjEifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589572180000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IklXNitWckZqaHpRK0dHdVkrejhqSWc9PSIsInZhbHVlIjoic1hHcjdWL2g2TGRxVHlDMW84YkZhK2Q5ZGNidzIyNGVXdjVmMFZIYTBYZ3l5aVBCVG1mN3lzaWtqWlFtZ3hkNiIsIm1hYyI6IjcwMTM3OGQ1NDNjOWYzOGQzMGM3MjEzOGFiYTk3YWE5ZmFlNjRiMWI4ZjZlZWQ1ZjNhZDBmNWJjMWJkMjk5NWQifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589572180000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InUwVmhWbnFuVDlwSmxmOW1MbTc0NlE9PSIsInZhbHVlIjoiYVdCT0xxdlRSNHN6dkF5OFM1TjczQVFuZEs5eGhhYU04YUdRVFdaR0NDOFpLRDd1bTlJYVV2SjJaQXhLeHVFWCIsIm1hYyI6ImUwNGJiOTE0MjIzZTQ1YTdhNzFiYmM2MjRmYmFkNDM5NzVkMTVjMzlmZmFlZGE4MjI3ZGRmYTg2ZDQwMTQxNjEifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRPVm1Kam9oQW5ITTRKbGJpYnpFVXc9PSIsInZhbHVlIjoiVnBCQUN1d21xWTQzcnZZNUtMN2NJVFpxL1BtRDUyN2tDZjRkN015cFJUWW1QeGVpWUQwMmIrZkw0SzNsRWxkNCIsIm1hYyI6IjQxMGUwZDNjMTk2ZmRhNTYwZjRiOTlhMzIzNDMxYTZlNWU1MjA0ZjVlZWU5NjNhMjU3OWFmZjc4ODM5MzgwMmMifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589572146000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlVaWm5EZDNnVy9xckwxUTF6dDdqZkE9PSIsInZhbHVlIjoiYTBlRExDTUhqVlBPLytRNGNqbHA0bDlSYndjcjdzN2dmUUR0d1ZpNERMODlzZ2ZYVXc0eUpBR1BaaWdOVzBodSIsIm1hYyI6IjdkNzQ3YWY4ZDljYTliYjNmZWM4NzRjZDM1YjM5ZTA3ZDM1NTBmNzU1ZDNkNzkyNGYzYmM4MDJkNTNkYWJjYTgifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRPVm1Kam9oQW5ITTRKbGJpYnpFVXc9PSIsInZhbHVlIjoiVnBCQUN1d21xWTQzcnZZNUtMN2NJVFpxL1BtRDUyN2tDZjRkN015cFJUWW1QeGVpWUQwMmIrZkw0SzNsRWxkNCIsIm1hYyI6IjQxMGUwZDNjMTk2ZmRhNTYwZjRiOTlhMzIzNDMxYTZlNWU1MjA0ZjVlZWU5NjNhMjU3OWFmZjc4ODM5MzgwMmMifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589572146000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlVaWm5EZDNnVy9xckwxUTF6dDdqZkE9PSIsInZhbHVlIjoiYTBlRExDTUhqVlBPLytRNGNqbHA0bDlSYndjcjdzN2dmUUR0d1ZpNERMODlzZ2ZYVXc0eUpBR1BaaWdOVzBodSIsIm1hYyI6IjdkNzQ3YWY4ZDljYTliYjNmZWM4NzRjZDM1YjM5ZTA3ZDM1NTBmNzU1ZDNkNzkyNGYzYmM4MDJkNTNkYWJjYTgifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19/delete" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRPVm1Kam9oQW5ITTRKbGJpYnpFVXc9PSIsInZhbHVlIjoiVnBCQUN1d21xWTQzcnZZNUtMN2NJVFpxL1BtRDUyN2tDZjRkN015cFJUWW1QeGVpWUQwMmIrZkw0SzNsRWxkNCIsIm1hYyI6IjQxMGUwZDNjMTk2ZmRhNTYwZjRiOTlhMzIzNDMxYTZlNWU1MjA0ZjVlZWU5NjNhMjU3OWFmZjc4ODM5MzgwMmMifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589571884000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImRTajNUTEluWW56cUZIamVQeTZDT3c9PSIsInZhbHVlIjoiR1hRdDQrNlRwa0tDNm54a3pTcEtFVVdYUXRsTmxTNk1MR0FIUUZ5NURYdzk1TU84K2F0OVBLL2p4ZGZIcGx5UCIsIm1hYyI6IjI5MGNlNDZjZTIwYjFmN2FjMjI3YzM1ZThjM2QyOTM3YTE0OGYyZmUzZGYzYzA1NDMzY2E0NDZjY2VmOGY5NWYifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19/delete" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="_token" />
+                <option name="value" value="dZg5ECwqwoXm3RIcJxApPO9EaLIusIS0TeiDLjYu" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRPVm1Kam9oQW5ITTRKbGJpYnpFVXc9PSIsInZhbHVlIjoiVnBCQUN1d21xWTQzcnZZNUtMN2NJVFpxL1BtRDUyN2tDZjRkN015cFJUWW1QeGVpWUQwMmIrZkw0SzNsRWxkNCIsIm1hYyI6IjQxMGUwZDNjMTk2ZmRhNTYwZjRiOTlhMzIzNDMxYTZlNWU1MjA0ZjVlZWU5NjNhMjU3OWFmZjc4ODM5MzgwMmMifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589571861000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IksvdG1SU01SNko2Uk9kdEQxSG5QaUE9PSIsInZhbHVlIjoiQTNzNVdXUHZuMGNtQ0Q0TWVxME0yS3NSRDVvZVY3SUtXUmxjQWhsN1ovckg4Ryt6M3FFdDJoL3hZTWh3bHoyOSIsIm1hYyI6ImI0MWQ4ZjVjYzRjZWVmYmNmNjRmZTc1YTUwMGY2OTFhYmRiMTUwYWVjMmU0ZDNmOWNmMDE2MWI3MjM2YTYyMDAifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19/delete" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRPVm1Kam9oQW5ITTRKbGJpYnpFVXc9PSIsInZhbHVlIjoiVnBCQUN1d21xWTQzcnZZNUtMN2NJVFpxL1BtRDUyN2tDZjRkN015cFJUWW1QeGVpWUQwMmIrZkw0SzNsRWxkNCIsIm1hYyI6IjQxMGUwZDNjMTk2ZmRhNTYwZjRiOTlhMzIzNDMxYTZlNWU1MjA0ZjVlZWU5NjNhMjU3OWFmZjc4ODM5MzgwMmMifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlVYN0FRREhzbk9CSUZuTnQ5ay9vUUE9PSIsInZhbHVlIjoiVjVEcEZtZGRMWU1LSjdFTG01cU11VlJMb0FIQzl4dDkzNzMvbTM5UHFEVi9XV1ZsTGp5MzVkZ1BCbnA3bmI3ayIsIm1hYyI6IjVhZTFlOGFjNjA2YmFkZDUzMzYyZDMzN2VkZWI1MjE2ZWNlYmRlMjQyOWQxNjgzMjQ3YTU0MWQ2YjYwZjg4NDYifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19/delete" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRPVm1Kam9oQW5ITTRKbGJpYnpFVXc9PSIsInZhbHVlIjoiVnBCQUN1d21xWTQzcnZZNUtMN2NJVFpxL1BtRDUyN2tDZjRkN015cFJUWW1QeGVpWUQwMmIrZkw0SzNsRWxkNCIsIm1hYyI6IjQxMGUwZDNjMTk2ZmRhNTYwZjRiOTlhMzIzNDMxYTZlNWU1MjA0ZjVlZWU5NjNhMjU3OWFmZjc4ODM5MzgwMmMifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589571533000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlVYN0FRREhzbk9CSUZuTnQ5ay9vUUE9PSIsInZhbHVlIjoiVjVEcEZtZGRMWU1LSjdFTG01cU11VlJMb0FIQzl4dDkzNzMvbTM5UHFEVi9XV1ZsTGp5MzVkZ1BCbnA3bmI3ayIsIm1hYyI6IjVhZTFlOGFjNjA2YmFkZDUzMzYyZDMzN2VkZWI1MjE2ZWNlYmRlMjQyOWQxNjgzMjQ3YTU0MWQ2YjYwZjg4NDYifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571492000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImtrS0FGN0RJOWl4RUpZNG1mMzJMclE9PSIsInZhbHVlIjoiTEpPWUVIZm5pdi9NaU5paVNTUUlLaldWeHBTSVZCalpwYmJPL083Y2NvZkRNMTlQaWV5eS9ISG53d0xjcUdjZSIsIm1hYyI6ImM4N2IxNTBhMGJiZDZmYjRkYjhlZGUyMjhlMjJjOTk3YTFkZmI3Y2E1MGIyYWI0NDNjNmEwYjkzMjdhMGFmZTUifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589571492000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkJaYzZsU21NQTZLejdnTDJ3V2NVVEE9PSIsInZhbHVlIjoiU3hzdFY1MGdKYkNCK1VEUGErbVJuYy9zbGpXNGk3MkpyUWRsemsrOXBLOU15K240YlVUUVlORWU0bmhnQmdmLyIsIm1hYyI6ImQwYjQwNzE1MzU3MmJiMzBjNWRiYjVhODlhNDZmN2U2MmQ5NjM0YzQ4MzRmNDAzNTFjMWZmOTU5YmVjYTgwMDAifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1589571492000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImtrS0FGN0RJOWl4RUpZNG1mMzJMclE9PSIsInZhbHVlIjoiTEpPWUVIZm5pdi9NaU5paVNTUUlLaldWeHBTSVZCalpwYmJPL083Y2NvZkRNMTlQaWV5eS9ISG53d0xjcUdjZSIsIm1hYyI6ImM4N2IxNTBhMGJiZDZmYjRkYjhlZGUyMjhlMjJjOTk3YTFkZmI3Y2E1MGIyYWI0NDNjNmEwYjkzMjdhMGFmZTUifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1589571492000" />
+                <option name="domain" value="laravel7.test.test" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkJaYzZsU21NQTZLejdnTDJ3V2NVVEE9PSIsInZhbHVlIjoiU3hzdFY1MGdKYkNCK1VEUGErbVJuYy9zbGpXNGk3MkpyUWRsemsrOXBLOU15K240YlVUUVlORWU0bmhnQmdmLyIsIm1hYyI6ImQwYjQwNzE1MzU3MmJiMzBjNWRiYjVhODlhNDZmN2U2MmQ5NjM0YzQ4MzRmNDAzNTFjMWZmOTU5YmVjYTgwMDAifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://laravel7.test.test" />
+          <option name="urlPath" value="/albums/19" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79f7a811-cefb-4d74-9935-a91f41b006e5" name="Default" comment="" />
+      <created>1589135267365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589135267365</updated>
+      <workItem from="1589135268598" duration="7049000" />
+      <workItem from="1589217175194" duration="8094000" />
+      <workItem from="1589230371650" duration="649000" />
+      <workItem from="1589264194578" duration="497000" />
+      <workItem from="1589301021840" duration="8287000" />
+      <workItem from="1589388439949" duration="9503000" />
+      <workItem from="1589436057353" duration="656000" />
+      <workItem from="1589476512448" duration="9006000" />
+      <workItem from="1589561381136" duration="15889000" />
+      <workItem from="1589615130056" duration="11723000" />
+      <workItem from="1589638769181" duration="13881000" />
+      <workItem from="1589710011767" duration="6003000" />
+      <workItem from="1589732732225" duration="10266000" />
+      <workItem from="1589821578486" duration="9653000" />
+      <workItem from="1589909420320" duration="8651000" />
+      <workItem from="1589992972864" duration="6168000" />
+      <workItem from="1590081352689" duration="7453000" />
+      <workItem from="1590167633501" duration="6147000" />
+      <workItem from="1590187949079" duration="271000" />
+      <workItem from="1590219274597" duration="12847000" />
+      <workItem from="1590312035567" duration="12977000" />
+      <workItem from="1590425655394" duration="2713000" />
+      <workItem from="1590511371457" duration="10927000" />
+      <workItem from="1590597859948" duration="11709000" />
+      <workItem from="1590683803120" duration="2945000" />
+      <workItem from="1590773084492" duration="9023000" />
+      <workItem from="1590843220818" duration="5276000" />
+      <workItem from="1590928015158" duration="11282000" />
+      <workItem from="1591029997789" duration="4607000" />
+      <workItem from="1591050274314" duration="652000" />
+      <workItem from="1591082045235" duration="21967000" />
+      <workItem from="1591123963702" duration="199000" />
+      <workItem from="1591124182601" duration="6466000" />
+      <workItem from="1591289580859" duration="6971000" />
+      <workItem from="1591457238094" duration="6309000" />
+      <workItem from="1591490693994" duration="735000" />
+      <workItem from="1591514442395" duration="16816000" />
+      <workItem from="1591635180307" duration="3472000" />
+      <workItem from="1591723532635" duration="9716000" />
+      <workItem from="1591894803753" duration="1258000" />
+      <workItem from="1591904847456" duration="4317000" />
+      <workItem from="1591997005306" duration="4812000" />
+      <workItem from="1592031821422" duration="8191000" />
+      <workItem from="1592147207162" duration="13360000" />
+      <workItem from="1592937136299" duration="291000" />
+      <workItem from="1593108361396" duration="921000" />
+      <workItem from="1593240513270" duration="1470000" />
+      <workItem from="1593266169084" duration="3668000" />
+      <workItem from="1593370311086" duration="821000" />
+      <workItem from="1593449916702" duration="3888000" />
+      <workItem from="1593709632855" duration="1809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="342261000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4950884" visible="true" weight="0.11128776" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50028557" side_tool="true" weight="0.19779354" />
+      <window_info anchor="right" id="Database" order="3" weight="0.329859" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.5049116" side_tool="true" weight="0.23300971" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49971443" visible="true" weight="0.38497654" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="REST Client" order="11" visible="true" weight="0.25216705" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.22064617" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939324" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3290938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950884" visible="true" weight="0.16613673" />
+      <window_info id="Structure" order="1" sideWeight="0.5049116" side_tool="true" weight="0.23300971" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="11" visible="true" weight="0.25216705" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939324" />
+      <window_info anchor="right" id="Database" order="3" weight="0.329859" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49971443" visible="true" weight="0.20344289" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50028557" side_tool="true" weight="0.19779354" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.22064617" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/database/seeds/AlbumsTableSeeder.php</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/UserFormRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="702" column="20" selection-start-line="702" selection-start-column="20" selection-end-line="702" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/console.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="85" column="43" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mails/test.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/mails/testemailmd.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminUsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="89" column="49" lean-forward="true" selection-start-line="89" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="473" column="13" selection-start-line="473" selection-start-column="13" selection-end-line="473" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Mail/TestMd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Mail/TestEmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mails/testemail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Events/NewAlbumCreated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AlbumsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="172" column="97" selection-start-line="172" selection-start-column="97" selection-end-line="172" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mails/notifyadminalbum.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Listeners/NotifyAdminNewAlbum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Mail/EmailNotifyAdminNewAlbum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PhotosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/CategoryFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2600">
+          <caret line="100" column="42" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="10" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_11_194548_crea_tabella_photos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_12_062058_modifica_albums-album_name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_11_185226_crea_tabella_albums.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/AlbumsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/PhotosTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/UsersTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/sb-admin-2.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/sb-admin-2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/templates/_admin.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/edituser.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="102" column="46" lean-forward="true" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/templates/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1010">
+          <caret line="357" selection-start-line="357" selection-end-line="357" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/templates/adminOLD.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2834">
+          <caret line="109" column="78" selection-start-line="104" selection-start-column="28" selection-end-line="109" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/albums/albums.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,113 @@
+ESEGUIRE TUTTE LE MIGRATION DENTRO /migration
+php artisan migrate
+---------------------------------------------------------
+
+HELPER make:migration PER CREARE UNA MIGRATION
+php artisan make:migration -h
+
+Usage:
+  make:migration [options] [--] <name>
+// <name> DEVE ESSERE UN NOME DESCRITTIVO
+
+Options:
+      --create[=CREATE]  The table to be created
+      --table[=TABLE]    The table to migrate
+      --path[=PATH]      The location where the migration file should be created
+      --realpath         Indicate any provided migration file paths are pre-resolved absolute paths
+      --fullpath         Output the full path of the migration
+  -h, --help             Display this help message
+  -q, --quiet            Do not output any message
+  -V, --version          Display this application version
+      --ansi             Force ANSI output
+      --no-ansi          Disable ANSI output
+  -n, --no-interaction   Do not ask any interactive question
+      --env[=ENV]        The environment the command should run under
+  -v|vv|vvv, --verbose   Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+---------------------------------------------------------
+
+php artisan make:migration crea_tabella_albums --create albums    //DEFINISCO TABELLA
+php artisan make:migration crea_tabella_photos --create=photos    //DEFINISCO TABELLA
+php artisan migrate                                               //CREO LE TABELLE NEL DB
+php artisan migrate:rollback                                      //ANNULLO L'ULTIMA MODIFICA
+php artisan migrate:fresh                       //SVUOTA LE TABELLE NEL DB => TRUNCATE TABLE
+
+php artisan make:migration modifica_albums-album_name --table albums    //MODIFICO TABELLA
+composer require doctrine/dbal                                  //SERVE QUESTO PACKAGE DA COMPOSER
+
+php artisan make:seeder UsersTableSeeder            //CONVENZIONE NOME: nome_table.'TableSeeder'
+php artisan db:seed --class=UsersTableSeeder        //LANCIA IL SEEDER
+php artisan db:seed                                 //LANCIA IL SEEDER DI DEFAULT. LO USERO' X CHIAMARE TUTTI I SEEDER
+
+php artisan make:seed AlbumsTableSeeder             //CREO UN SEEDER ANCHE PER albums
+php artisan db:seed --class=AlbumsTableSeeder       //LANCIA IL SEEDER
+
+SELECT * FROM albums AS a INNER JOIN users AS u ON a.user_id = u.id;
+
+php artisan make:model Models\\Photo -m              //CREA MODEL E MIGRAZIONE: ATTENZIONE CHE NON CREI 2 MIGRAZIONI PER LA STESSA TABELLA
+php artisan make:seed PhotosTableSeeder
+php artisan db:seed --class=PhotosTableSeeder       //LANCIA IL SEEDER
+
+php artisan db:seed                                 //SEEDER DI DEFAULT. LO MODIFICO XKè CHIAMI TUTTI I SEEDER
+
+php artisan migrate:refresh --seed                  //SVUOTA LE TABELLE E LANCIA I SEEDER: NON FUNGE
+
+php artisan storage:link                            //LINK SIMBOLITO TRA \public\storage E \storage\app/public
+
+php artisan make:controller PhotosController --resource   //RESOURCE CONTROLLER, CON I METODI
+php artisan route:list                              //ROTTE PREGENERATE PER IL RESOURCE CONTROLLER
+
+php artisan vendor:publish                          //RECUPERA LE VIEW DEI VARI VENDOR
+
+php artisan make:request AlbumRequest               //REQUEST: PER VALIDARE I DATI SU UN FORM
+
+
+nvm install latest                                  //INSTALLARE nvm X WINDOWS
+//nvm install 12.0.0                                //INSTALLIAMO node.js
+nvm list
+nvm use 14.3.0
+
+composer require laravel/ui                         //PRIMA ERA php artisan make:auth
+npm install
+npm run dev
+php artisan ui bootstrap --auth
+//php artisan ui vue --auth
+
+php artisan make:policy AlbumPolicy --model=Album
+php artisan make:policy PhotoPolicy --model=Photo
+
+php artisan make:controller GalleryController
+
+php artisan make:model Models\Category -m      //CREA MODEL E ANCHE LA MIGRAZION
+
+php artisan make:seed SeedAlbumCategoriesTable      //SEED PER LA TABELLA categories
+
+php artisan make:controller CategoryController --resource
+
+php artisan route:list --name=album -v                  //VEDO SOLO LE ROTTE DI album
+php artisan make:request CategoryRequest
+php artisan make:migration add_user_id_column_categories --table=categories
+php artisan migrate
+
+php artisan make:middleware VerifyIsAdmin
+
+php artisan make:controller Admin\AdminUsersController --resource   //  CREA ANCHE LA CARTELLA
+
+composer require yajra/laravel-datatables-oracle //DATATABLES LATO SERVER
+php artisan vendor:publish --provider="Yajra\DataTables\DataTablesServiceProvider"
+
+php artisan make:request UserFormRequest               //REQUEST: PER VALIDARE I DATI SU UN FORM
+
+php artisan make:mail TestEmail                        //GLI DICO IL NOME DELLA CLASSE
+php artisan logs:clear                                 //NON CREDO FUNGA: PER PULIRE laravel.log
+php artisan make:mail TestMd -m mails.testemailmd      //EMAIL CON TEMPLATE MARKDOWN
+php artisan vendor:publish --all                       //PER SCARICARE SOTTO vendor
+
+php artisan event:generate                             //CREA Events E Listeners DA EventServiceProvider->listen
+php artisan make:mail EmailNotifyAdminNewAlbum
+
+php artisan make:factory CategoryFactory               //NOVITA' 5.5: UNA FACTORY PER OGNI TABELLA
+php artisan make:factory CategoryFactory -m \App\Models\Category
+
+php artisan tinker                                      //POSSO LANCIARE LA FACTORY DA TERMINAL
+factory(App\Models\Category::class,5)->create();
+factory(Category::class,5)->create();
