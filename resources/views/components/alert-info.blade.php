@@ -1,3 +1,3 @@
-<div class="alert alert-info alert-dismissible fade show" role="alert">
+<div class="alert alert-info" role="alert">
     <strong>{{$slot}}</strong>
 </div>

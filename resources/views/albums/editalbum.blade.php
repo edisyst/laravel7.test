@@ -8,7 +8,7 @@
     <form method="POST" action="{{route('album.store', $album->id)}}" enctype="multipart/form-data">
         @csrf
         {{--PER SIMULARE UN FORM METHOD="PATCH"--}}
-        <input type="hidden" name="_method" value="PATCH">
+        @method('PATCH') {{-- EQUIVALE A <input type="hidden" name="_method" value="PATCH"> --}}
         <div class="form-group">
             <label for="name">Name</label>
             <input type="text" name="name" id="name" class="form-control"

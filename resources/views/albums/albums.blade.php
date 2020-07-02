@@ -9,11 +9,11 @@
         @endcomponent
     @endif
 
-
     <p>Ogni sessione ha un token diverso: {{csrf_token()}}</p>
+    <p>C'è un problema sul DELETE: se premo sull'icona cancella
+       il TD, se premo sul bottone fuori dall'icona, cancella la TR</p>
 
     <form>
-        @csrf
         <table class="table table-bordered">
             <thead>
                 <tr>
@@ -92,10 +92,12 @@
     @parent
     <script>
 
+        $('div.alert').fadeOut(5000); //QUANDO APPARE IL COMPONENT ALERT IN ALTO
+
         $(document).ready(function() {
             $('td').on('click', 'a.btn-danger', function(element) {
                 element.preventDefault();
-                // alert(element.target.parentNode.parentNode.parentNode.parentNode);
+                alert(element.target.parentNode.parentNode.parentNode.parentNode);
                 var urlAlbum = $(this).attr('href');
                 var tr = element.target.parentNode.parentNode.parentNode.parentNode;
                 $.ajax(urlAlbum, {
