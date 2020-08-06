@@ -185,3 +185,13 @@ Route::get('testevent', function (){
 
 
 
+Route::get('/phpversion', function() {
+    return response()->json([
+        'stuff' => phpinfo()
+    ]);
+});
+
+
+
+
+
